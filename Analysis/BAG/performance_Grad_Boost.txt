@@ -1,0 +1,108 @@
+
+Performance of the Grad_Boost (n_estimators = 200; max_depth = 3; min_samples_leaf = 2) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.83      0.70      0.76       228
+           2       0.29      0.07      0.11       225
+
+    accuracy                           0.99     47114
+   macro avg       0.71      0.59      0.62     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Grad_Boost (n_estimators = 200; max_depth = 3; min_samples_leaf = 3) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.84      0.72      0.77       228
+           2       0.43      0.10      0.16       225
+
+    accuracy                           0.99     47114
+   macro avg       0.75      0.61      0.64     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Grad_Boost (n_estimators = 200; max_depth = 3; min_samples_leaf = 1) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.84      0.72      0.78       228
+           2       0.29      0.08      0.13       225
+
+    accuracy                           0.99     47114
+   macro avg       0.71      0.60      0.64     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Grad_Boost (n_estimators = 300; max_depth = 3; min_samples_leaf = 1) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.85      0.72      0.78       228
+           2       0.32      0.10      0.15       225
+
+    accuracy                           0.99     47114
+   macro avg       0.72      0.61      0.64     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Grad_Boost (n_estimators = 200; max_depth = 5; min_samples_leaf = 2) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.89      0.74      0.81       228
+           2       0.28      0.11      0.16       225
+
+    accuracy                           0.99     47114
+   macro avg       0.72      0.62      0.65     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Grad_Boost (n_estimators = 200; max_depth = 5; min_samples_leaf = 3) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.88      0.73      0.80       228
+           2       0.28      0.11      0.16       225
+
+    accuracy                           0.99     47114
+   macro avg       0.72      0.61      0.65     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Grad_Boost (n_estimators = 200; max_depth = 5; min_samples_leaf = 1) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.90      0.74      0.81       228
+           2       0.26      0.12      0.17       225
+
+    accuracy                           0.99     47114
+   macro avg       0.72      0.62      0.66     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Grad_Boost (n_estimators = 300; max_depth = 3; min_samples_leaf = 2) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.82      0.70      0.76       228
+           2       0.30      0.07      0.11       225
+
+    accuracy                           0.99     47114
+   macro avg       0.71      0.59      0.62     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Grad_Boost (n_estimators = 300; max_depth = 3; min_samples_leaf = 3) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.83      0.73      0.77       228
+           2       0.44      0.10      0.16       225
+
+    accuracy                           0.99     47114
+   macro avg       0.75      0.61      0.64     47114
+weighted avg       0.99      0.99      0.99     47114
+

@@ -1,0 +1,36 @@
+
+Performance of the Extra_Trees (n_estimators = 250; max_depth = None; min_samples_leaf = 1) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.97      0.61      0.75       228
+           2       0.82      0.08      0.15       225
+
+    accuracy                           0.99     47114
+   macro avg       0.93      0.56      0.63     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 350; max_depth = None; min_samples_leaf = 1) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.97      0.61      0.75       228
+           2       0.81      0.08      0.14       225
+
+    accuracy                           0.99     47114
+   macro avg       0.93      0.56      0.63     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 450; max_depth = None; min_samples_leaf = 1) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.97      0.61      0.75       228
+           2       0.81      0.08      0.14       225
+
+    accuracy                           0.99     47114
+   macro avg       0.93      0.56      0.63     47114
+weighted avg       0.99      0.99      0.99     47114
+

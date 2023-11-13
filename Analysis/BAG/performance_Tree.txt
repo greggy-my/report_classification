@@ -1,0 +1,36 @@
+
+Performance of the Tree (kernel = log_loss) bag
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.80      0.72      0.76       228
+           2       0.27      0.23      0.25       225
+
+    accuracy                           0.99     47114
+   macro avg       0.69      0.65      0.67     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Tree (kernel = entropy) bag
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.80      0.72      0.76       228
+           2       0.27      0.23      0.25       225
+
+    accuracy                           0.99     47114
+   macro avg       0.69      0.65      0.67     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Tree (kernel = gini) bag
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.74      0.74      0.74       228
+           2       0.22      0.22      0.22       225
+
+    accuracy                           0.99     47114
+   macro avg       0.65      0.65      0.65     47114
+weighted avg       0.99      0.99      0.99     47114
+

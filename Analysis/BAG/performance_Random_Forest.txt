@@ -1,0 +1,36 @@
+
+Performance of the Random_Forest (n_estimators = 200; max_depth = 15; min_samples_leaf = 1) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.21      0.35       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.66      0.40      0.45     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Random_Forest (n_estimators = 300; max_depth = 15; min_samples_leaf = 1) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.21      0.35       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.66      0.40      0.45     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Random_Forest (n_estimators = 400; max_depth = 15; min_samples_leaf = 1) bag
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.21      0.34       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.66      0.40      0.45     47114
+weighted avg       0.99      0.99      0.99     47114
+

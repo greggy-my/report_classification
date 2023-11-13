@@ -1,0 +1,2 @@
+.DS_Store -> cannot open broken document
+RJ1_27_01_21.pdf -> cannot open broken document

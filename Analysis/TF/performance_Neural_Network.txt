@@ -1,0 +1,528 @@
+
+Performance of the Neural_Network (max_iter = 900; hidden_layer_sizes = 100; solver = sgd; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 100; solver = lbfgs; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.86      0.73      0.79       228
+           2       0.25      0.06      0.09       225
+
+    accuracy                           0.99     47114
+   macro avg       0.70      0.59      0.63     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 900; hidden_layer_sizes = 200; solver = sgd; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 600; hidden_layer_sizes = 100; solver = lbfgs; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.89      0.72      0.80       228
+           2       0.38      0.16      0.22       225
+
+    accuracy                           0.99     47114
+   macro avg       0.75      0.63      0.67     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 100; solver = adam; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.84      0.74      0.79       228
+           2       0.31      0.29      0.30       225
+
+    accuracy                           0.99     47114
+   macro avg       0.72      0.67      0.69     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 900; hidden_layer_sizes = 500; solver = sgd; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 200; solver = lbfgs; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.93      0.72      0.81       228
+           2       0.31      0.12      0.18       225
+
+    accuracy                           0.99     47114
+   macro avg       0.75      0.61      0.66     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 200; solver = adam; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.71      0.79       228
+           2       0.34      0.30      0.32       225
+
+    accuracy                           0.99     47114
+   macro avg       0.74      0.67      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 900; hidden_layer_sizes = 1000; solver = sgd; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 100; solver = sgd; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 600; hidden_layer_sizes = 200; solver = lbfgs; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.79      0.84       228
+           2       0.48      0.18      0.26       225
+
+    accuracy                           0.99     47114
+   macro avg       0.79      0.65      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 200; solver = sgd; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 500; solver = sgd; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 500; solver = adam; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.72      0.80       228
+           2       0.31      0.32      0.31       225
+
+    accuracy                           0.99     47114
+   macro avg       0.73      0.68      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 500; solver = lbfgs; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.84      0.73      0.78       228
+           2       0.25      0.04      0.08       225
+
+    accuracy                           0.99     47114
+   macro avg       0.69      0.59      0.62     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 600; hidden_layer_sizes = 500; solver = sgd; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.75      0.03      0.05       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.58      0.34      0.35     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 1000; solver = sgd; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 500; solver = lbfgs; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.84      0.73      0.78       228
+           2       0.25      0.04      0.08       225
+
+    accuracy                           0.99     47114
+   macro avg       0.69      0.59      0.62     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 500; solver = adam; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.72      0.80       228
+           2       0.31      0.32      0.31       225
+
+    accuracy                           0.99     47114
+   macro avg       0.73      0.68      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 100; solver = sgd; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 1000; solver = adam; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.89      0.75      0.81       228
+           2       0.41      0.26      0.32       225
+
+    accuracy                           0.99     47114
+   macro avg       0.76      0.67      0.71     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 900; hidden_layer_sizes = 500; solver = sgd; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.75      0.03      0.05       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.58      0.34      0.35     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 100; solver = adam; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.84      0.74      0.79       228
+           2       0.31      0.29      0.30       225
+
+    accuracy                           0.99     47114
+   macro avg       0.72      0.67      0.69     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 200; solver = adam; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.71      0.79       228
+           2       0.34      0.30      0.32       225
+
+    accuracy                           0.99     47114
+   macro avg       0.74      0.67      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 1200; hidden_layer_sizes = 1000; solver = adam; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.89      0.75      0.81       228
+           2       0.41      0.26      0.32       225
+
+    accuracy                           0.99     47114
+   macro avg       0.76      0.67      0.71     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 200; solver = sgd; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.89      0.17      0.29       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.63      0.39      0.43     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 100; solver = adam; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.84      0.74      0.79       228
+           2       0.31      0.29      0.30       225
+
+    accuracy                           0.99     47114
+   macro avg       0.72      0.67      0.69     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 200; solver = adam; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.71      0.79       228
+           2       0.34      0.30      0.32       225
+
+    accuracy                           0.99     47114
+   macro avg       0.74      0.67      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 1000; solver = lbfgs; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.87      0.73      0.79       228
+           2       0.40      0.09      0.15       225
+
+    accuracy                           0.99     47114
+   macro avg       0.75      0.61      0.65     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 100; solver = lbfgs; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.68      0.61      0.64       228
+           2       0.05      0.00      0.01       225
+
+    accuracy                           0.99     47114
+   macro avg       0.57      0.54      0.55     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 600; hidden_layer_sizes = 1000; solver = sgd; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 600; hidden_layer_sizes = 100; solver = lbfgs; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.89      0.72      0.80       228
+           2       0.38      0.16      0.22       225
+
+    accuracy                           0.99     47114
+   macro avg       0.75      0.63      0.67     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 900; hidden_layer_sizes = 100; solver = sgd; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 1000; solver = lbfgs; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.87      0.73      0.79       228
+           2       0.40      0.09      0.15       225
+
+    accuracy                           0.99     47114
+   macro avg       0.75      0.61      0.65     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 200; solver = lbfgs; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.74      0.57      0.64       228
+           2       0.22      0.04      0.07       225
+
+    accuracy                           0.99     47114
+   macro avg       0.65      0.53      0.57     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 500; solver = adam; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.72      0.80       228
+           2       0.31      0.32      0.31       225
+
+    accuracy                           0.99     47114
+   macro avg       0.73      0.68      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 600; hidden_layer_sizes = 100; solver = lbfgs; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.89      0.72      0.80       228
+           2       0.38      0.16      0.22       225
+
+    accuracy                           0.99     47114
+   macro avg       0.75      0.63      0.67     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 600; hidden_layer_sizes = 200; solver = lbfgs; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.79      0.84       228
+           2       0.48      0.18      0.26       225
+
+    accuracy                           0.99     47114
+   macro avg       0.79      0.65      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 900; hidden_layer_sizes = 200; solver = sgd; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.87      0.09      0.16       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.62      0.36      0.38     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 500; solver = adam; learning_rate = invscaling)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.72      0.80       228
+           2       0.31      0.32      0.31       225
+
+    accuracy                           0.99     47114
+   macro avg       0.73      0.68      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 600; hidden_layer_sizes = 200; solver = lbfgs; learning_rate = constant)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.90      0.79      0.84       228
+           2       0.48      0.18      0.26       225
+
+    accuracy                           0.99     47114
+   macro avg       0.79      0.65      0.70     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 1000; solver = adam; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.89      0.75      0.81       228
+           2       0.41      0.26      0.32       225
+
+    accuracy                           0.99     47114
+   macro avg       0.76      0.67      0.71     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 300; hidden_layer_sizes = 500; solver = sgd; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.75      0.03      0.05       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.58      0.34      0.35     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Neural_Network (max_iter = 600; hidden_layer_sizes = 100; solver = adam; learning_rate = adaptive)
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     46661
+           1       0.84      0.74      0.79       228
+           2       0.31      0.29      0.30       225
+
+    accuracy                           0.99     47114
+   macro avg       0.72      0.67      0.69     47114
+weighted avg       0.99      0.99      0.99     47114
+

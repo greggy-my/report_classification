@@ -1,0 +1,768 @@
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 5; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 5; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 5; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 5; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 10; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 10; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 10; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 15; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 10; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 15; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 5; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 5; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 15; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = 15; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 5; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 5; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 10; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 10; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 15; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 10; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 15; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 10; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 15; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = 15; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 5; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 5; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 5; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 5; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = None; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.40      0.57       228
+           2       1.00      0.01      0.02       225
+
+    accuracy                           0.99     47114
+   macro avg       1.00      0.47      0.53     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = None; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.96      0.59      0.73       228
+           2       0.77      0.08      0.14       225
+
+    accuracy                           0.99     47114
+   macro avg       0.91      0.55      0.62     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 10; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 10; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 10; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 10; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 15; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 15; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 15; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = 15; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = None; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.34      0.50       228
+           2       1.00      0.00      0.01       225
+
+    accuracy                           0.99     47114
+   macro avg       1.00      0.45      0.50     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = None; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.39      0.56       228
+           2       1.00      0.01      0.02       225
+
+    accuracy                           0.99     47114
+   macro avg       1.00      0.47      0.53     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 5; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 50; max_depth = None; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.99      0.53      0.69       228
+           2       1.00      0.03      0.05       225
+
+    accuracy                           0.99     47114
+   macro avg       0.99      0.52      0.58     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 5; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = None; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.96      0.59      0.73       228
+           2       0.81      0.08      0.14       225
+
+    accuracy                           0.99     47114
+   macro avg       0.92      0.56      0.62     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 5; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 5; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 10; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 10; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 10; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 10; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 15; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 15; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 15; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = None; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.40      0.57       228
+           2       1.00      0.00      0.01       225
+
+    accuracy                           0.99     47114
+   macro avg       1.00      0.47      0.53     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = 15; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.00      0.00      0.00       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.33      0.33      0.33     47114
+weighted avg       0.98      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = None; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.96      0.60      0.74       228
+           2       0.82      0.08      0.15       225
+
+    accuracy                           0.99     47114
+   macro avg       0.92      0.56      0.63     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = None; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.31      0.47       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.66      0.44      0.49     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 100; max_depth = None; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.99      0.54      0.70       228
+           2       1.00      0.03      0.05       225
+
+    accuracy                           0.99     47114
+   macro avg       0.99      0.52      0.58     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = None; min_samples_leaf = 3)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.99      0.40      0.57       228
+           2       1.00      0.00      0.01       225
+
+    accuracy                           0.99     47114
+   macro avg       0.99      0.47      0.53     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = None; min_samples_leaf = 1)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.96      0.61      0.74       228
+           2       0.82      0.08      0.15       225
+
+    accuracy                           0.99     47114
+   macro avg       0.92      0.56      0.63     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = None; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.32      0.49       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.66      0.44      0.50     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 150; max_depth = None; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.99      0.53      0.69       228
+           2       1.00      0.03      0.05       225
+
+    accuracy                           0.99     47114
+   macro avg       0.99      0.52      0.58     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = None; min_samples_leaf = 4)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       1.00      0.32      0.49       228
+           2       0.00      0.00      0.00       225
+
+    accuracy                           0.99     47114
+   macro avg       0.66      0.44      0.50     47114
+weighted avg       0.99      0.99      0.99     47114
+
+
+Performance of the Extra_Trees (n_estimators = 200; max_depth = None; min_samples_leaf = 2)
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     46661
+           1       0.99      0.53      0.69       228
+           2       1.00      0.03      0.05       225
+
+    accuracy                           0.99     47114
+   macro avg       0.99      0.52      0.58     47114
+weighted avg       0.99      0.99      0.99     47114
+
