@@ -1,9 +1,0 @@
-# created by virtualenv automatically
-/venv/
-.idea/
-*.pdf
-*.csv
-*.excel
-*.xlsx
-*.npz
-*.joblib
