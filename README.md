@@ -61,3 +61,4 @@ This repository contains code for training, storing, and using both TF-IDF and b
 - Python
 - Scikit-learn
 - Pandas
+- Multithreading
